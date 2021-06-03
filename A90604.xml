@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the rebells in Nevv-Gate: presented by Colonell Goret, their commander in France. With the imprisonment of Daniell Dulley master of the shippe, Master Adam Gould, Master Thomas Leverland marchants, for refusing to carry them to the rebells. Also a copy of the warrant sent by the Parliament to the Sheriffe of Devon, where they were first apprehended, for their bringing up to London and commitment to Newgate. Together with their behaviours and carriages since their imprisonment in the said goale.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90604</idno><idno type="EEBO-CITATION">99871320</idno>
+  <idno type="VID">156553</idno>
+  <idno type="EEBO-PROQUEST">2240934352</idno>
+  
+            <idno type="STC">Wing P1831</idno>
+            <idno type="STC">Thomason E141_4</idno>
+            <idno type="STC">ESTC R212744</idno>
+            <idno type="PROQUEST">99871320</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871320e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156553)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E141[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the rebells in Nevv-Gate: presented by Colonell Goret, their commander in France. With the imprisonment of Daniell Dulley master of the shippe, Master Adam Gould, Master Thomas Leverland marchants, for refusing to carry them to the rebells. Also a copy of the warrant sent by the Parliament to the Sheriffe of Devon, where they were first apprehended, for their bringing up to London and commitment to Newgate. Together with their behaviours and carriages since their imprisonment in the said goale.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, and G. Lindsey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variant: "Daniel Dalley" in title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Newgate (Prison : London, England) --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156553:1"/>
+            <p>THE PETITION OF THE REBELLS IN NEVV-GATE: Presented by Colonell <hi>Goret,</hi> their Commander in <hi>France.</hi>
+            </p>
+            <p>With the imprisonment of <hi>Daniell Dulley</hi> Master of the Shippe, Master <hi>Adam Gould,</hi> Master <hi>Thomas Leverland</hi> Marchants, for refusing to carry them to the Rebells.</p>
+            <p>Also a copy of the warrant sent by the Parliament to the Sheriffe of <hi>Devon,</hi> where they were first apprehended, for their bringing up to <hi>London</hi> and Commit<g ref="char:EOLhyphen"/>ment to <hi>Newgate.</hi>
+            </p>
+            <p>Together with their behaviours and carriages since their imprisonment in the said Goale.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>F. Coles,</hi> and <hi>G. Lindsey.</hi>
+            </p>
+            <p>1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:156553:2"/>
+            <pb facs="tcp:156553:2"/>
+            <head>The imprisonment of Mr Dalley for refusing to transport them to the <hi>Rebels.</hi>
+            </head>
+            <p>ABout the tenth of <hi>November 1641. Daniell Dalley,</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Master of a small barke of <hi>King<g ref="char:EOLhyphen"/>saile</hi> in <hi>Ireland▪</hi> was fraighted by two Gen<g ref="char:EOLhyphen"/>tlemen Marchants of <hi>Kingsa<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</hi> with beefe, and tallow, and hides, and bou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the Merchants to Saint▪ <hi>Mallowes</hi> in <hi>France,</hi> where they vented their commodities, and afterwards the same Mar<g ref="char:EOLhyphen"/>chants laid out their mony in wine and frewtt▪ and fraughted the Barke home againe, all being done, and they ready to set saile, the governer sent a command to the Master <hi>Daniell Dalley,</hi> that hee should take nine Gentlemen with him, which should pay for their passage, which by reason of the troubles the Master refused, whereupon the Governour Committed Mr. <hi>Dalley,</hi> so Mr. <hi>Dall<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> seeing no remedy but that he must carry them, he tooke them abourd by the Governours warrant and command, and set sayle and went to sea, where they had not beene two dayes, but a storme rose at South and at South South-west, and put them
+<pb n="2" facs="tcp:156553:3"/> into <hi>Salcomb,</hi> in the west Countrey, where the passengers went ashore and tooke lodging till it would please God to send faire weather, but no<g ref="char:EOLhyphen"/>tice of these passengers being given to Captaine <hi>Foskew,</hi> one that hath the command of a fort of his Majesties there, he sent for them before him &amp; examined them, &amp; he finding that they could not give a good account of their designes, hee com<g ref="char:EOLhyphen"/>mitted them and the Marchants and the Shippes company likewise, till he sent up word to the Par<g ref="char:EOLhyphen"/>liament, who sent for them up to <hi>London,</hi> where they now are all in Prison now in Newgate who expect every day to be called before the Parlia<g ref="char:EOLhyphen"/>ment, the names of them are here under written.</p>
+            <list>
+               <item>
+                  <hi>Daniell Daly</hi>
+                  <label> Master of the Shippe.</label>
+               </item>
+               <item>
+                  <hi>David Gallaway,</hi>
+               </item>
+               <item>
+                  <hi>Richard Gallaway,</hi>
+               </item>
+               <item>
+                  <hi>Robert Farlong,</hi>
+               </item>
+               <item>
+                  <hi>Iohn Williams,</hi>
+               </item>
+               <item>
+                  <hi>Iohn Dime.</hi>
+               </item>
+               <item>
+                  <hi>Nicho. Baggatt.</hi>
+               </item>
+               <trailer>These were the Masters men.</trailer>
+            </list>
+            <list>
+               <head>Captaines.</head>
+               <item>
+                  <hi>Edward Butler</hi>
+               </item>
+               <item>
+                  <hi>Iohn Ryon</hi>
+               </item>
+               <item>
+                  <hi>D<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nall Ryon.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Lievetenants.</head>
+               <item>
+                  <hi>Iohn Butler.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Ryon.</hi>
+               </item>
+               <item>
+                  <hi>Morgan Querke.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Captaines men.</head>
+               <item>
+                  <hi>Garret Foye.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Mackteydger</hi>
+               </item>
+               <item>
+                  <hi>Darby Ryon.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Marchants.</head>
+               <item>
+                  <hi>Mr. Adam Gould.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Thomas Leudland.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="narrative">
+            <pb facs="tcp:156553:3"/>
+            <head>The true narration of the Rebells late taken by Sea, and committed to Newgate.</head>
+            <p>INformation was given to the House of Com<g ref="char:EOLhyphen"/>mons of certaine Marriners and Comman<g ref="char:EOLhyphen"/>ders repairing from <hi>France</hi> towardes <hi>Ireland,</hi> for the assisting (as was supposed of the Rebells in <hi>Ireland,</hi> they having a Commission at that present about them, the House was further infor<g ref="char:EOLhyphen"/>med that Captaine <hi>Fosrue</hi> a Sea Captaine had ta<g ref="char:EOLhyphen"/>ken and stayed the said Marriners and Captaines, and brought them to <hi>Saltcombe</hi> within the coun<g ref="char:EOLhyphen"/>ty of <hi>Devon;</hi> the honourable assembly as well out of their pious and grave consideration for the bet<g ref="char:EOLunhyphen"/>ter satisfaction of the Kingdome, as for preventi<g ref="char:EOLhyphen"/>on of such dangers as by their arrivall into <hi>Ireland</hi> in case they should partake with the Rebells, they did upon the twenty day of <hi>February</hi> last, make an order for the conducting and bringing up of the said Marriners and Commanders to <hi>London,</hi> with intent they might be fully examined by the House of Parliament, upon which order a warrant was forthwith granted under Mr. Spea<g ref="char:EOLhyphen"/>kers hand for the safe bringing up of the said Mar<g ref="char:EOLhyphen"/>riners and Commanders to <hi>London,</hi> the tenor of which warrant followeth.</p>
+         </div>
+         <div type="warrant">
+            <p>It was this present day ordered by the House of Commons, that you ap<g ref="char:EOLhyphen"/>prehend and take the Master of the Barke, toge<g ref="char:EOLhyphen"/>ther with the Marriners and Irish Commanders
+<pb n="6" facs="tcp:156553:4"/> late returned from <hi>France</hi> towardes <hi>Ireland,</hi> and then to bring to the City of <hi>London,</hi> each Sheriffe in his proper County, to take care for the con<g ref="char:EOLhyphen"/>ducting the said persons, and not to suffer them to goe together, but the said Commanders to be kept apart, and heereof not to faile. </p>
+            <closer>
+               <dateline>Dat. <date>the twen<g ref="char:EOLhyphen"/>ty day of <hi>February.</hi> 1641.</date>
+               </dateline>
+            </closer>
+            <trailer>To the Sheriffe of the County of <hi>Devon,</hi> and all other Sheriffes, Constables, and other Officers, whom this shall or may concerne.</trailer>
+         </div>
+         <div type="narrative">
+            <p>BY vertue of which▪ order the foresaid per<g ref="char:EOLhyphen"/>sons were by the said Sheriffe of <hi>Devon,</hi> brought towards <hi>London,</hi> afterwardes deli<g ref="char:EOLhyphen"/>vered to severall Sheriffes, untill they came to Middlesex, where by the Shireffes of <hi>London</hi> and Middlesex▪ they were received, and by the fore<g ref="char:EOLhyphen"/>said warrant brought to New-gate the County Goale of Middlesex, where they were with much care imprisoned▪ and strickly kept, some of them being placed in the Masters side, others in the com<g ref="char:EOLunhyphen"/>mon side.</p>
+            <p>The said Captaines being brought to New-gate, being all strangers and destitute of acquain<g ref="char:EOLhyphen"/>tance, onely with some few persons in this Town, did for their more speedy inlargement out of pri<g ref="char:EOLhyphen"/>son, present a petition to the Honourable House of Common, as followeth.</p>
+         </div>
+         <div type="petition_to_Parliament">
+            <pb facs="tcp:156553:4"/>
+            <head type="sub">To the Honourable Knights, Citizens, and Burgesses in the Commons House of Parliament assembled.</head>
+            <head>The humble Petition, of the distressed Marriners and Commanders, late committed to Newgate.</head>
+            <opener>Humbly shewing,</opener>
+            <p>THat the Petitioners are his Maiesties true and loyall Subiects, most of them borne within his Maiesties Realme of <hi>Ireland,</hi> all strictly obli<g ref="char:EOLhyphen"/>ged and most ready to defend his Maiesties rights and priviledges to the uttermost of their powers, but being necessitated in their native Countrey, did about three yeares <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ince repaire to <hi>France,</hi> where they served in <hi>Marshall</hi> affaires under the command of <hi>Colonell Goret,</hi> and the Petitioners being there disbanded they resolved for their na<g ref="char:EOLhyphen"/>tive countrey in which returne they were stayed by Captaine <hi>Foscue</hi> a Sea Captaine, and brought to the Port of <hi>Saltcombe</hi> within the county of <hi>De<g ref="char:EOLhyphen"/>von,</hi> there imprisoned, their goods seized, and since by order of this Honourable House com<g ref="char:EOLhyphen"/>mitted to Newgate, where they are lyable to re<g ref="char:EOLhyphen"/>maine in great misery, to their losse of time, and utter destruction and ruine.</p>
+            <p>
+               <hi>Humbly they pray that the premisses bee taken in<g ref="char:EOLhyphen"/>to consideraetion and the petitioners forthwith may bee convented before this Honorable assembly to answer their charge, and your Petitioners loyaltie
+<pb n="6" facs="tcp:156553:5"/> to their suddaine appearing, they may bee r<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>estor to their former libertie and fortunes.</hi>
+            </p>
+            <closer>And so in duty bound they shall ever pray for the happy event <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f this high and Honorable Assemblie</closer>
+         </div>
+         <div type="text">
+            <p>THis Petition was since presented to he House by Colonell <hi>Gorett</hi> under whom the Petitioners served in <hi>France,</hi> they have not as yet beene called to their answers, but expect daily to be sent for before a Committee appoin<g ref="char:EOLhyphen"/>ted by the House, they carry themselves civilly in the Goale and with patience expect the time when they shall bee called to their answer, they deny all intentions of assisting the Rebells in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or any act which might tend to the dis<g ref="char:EOLhyphen"/>loyalty, and that the cause of their reteurne home was want of imployment in <hi>France,</hi> the Army being disbanded.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
